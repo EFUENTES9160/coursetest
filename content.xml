@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>universal</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026060618432428FJ2Y</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260606184324G8B7AV</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Leadership &amp; Professionalism </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Theme Park &amp; Toy Engineers</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>What is this course about?
+
+This course is designed to equip members of the Theme Park &amp; Toy Engineers (TPTE) and aspiring leaders with the essential &quot;soft skills&quot; required to excel in the themed entertainment and toy industries. While technical skill is the &quot;what&quot; of your career, professionalism and leadership constitute the &quot;how&quot; and the &quot;why.&quot; Professionalism isn&apos;t just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. Leadership is the ability to guide, inspire, and coordinate people toward a common goal. It’s not reserved for people with &quot;Manager&quot; in their title; it’s an attitude.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>propietary license</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>universal</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780784222771</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_extraHeadContent</key>
+    <value>Theme Park &amp; Toy Engineers: Leadership &amp; Professionalism</value>
+  </odeProperty>
+  <odeProperty>
+    <key>footer</key>
+    <value>Remember to provide evidence of completion in the TPTE Learning Center | Theme Park &amp; Toy Engineers | Learning Center
+</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>27f91756-90e3-43a0-b7aa-bf815ba59ba9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Description &amp; Objectives</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Description &amp; Objectives</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Description &amp; Objectives</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Description &amp; Objectives</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>27f91756-90e3-43a0-b7aa-bf815ba59ba9</odePageId>
+      <odeBlockId>block-1780778056181-37n2lul8x</odeBlockId>
+      <blockName>Description of the course</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>27f91756-90e3-43a0-b7aa-bf815ba59ba9</odePageId>
+          <odeBlockId>block-1780778056181-37n2lul8x</odeBlockId>
+          <odeIdeviceId>idevice-1780778056180-swrynagdh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>What is this course about?</strong></h1>
+<p>This course is designed to equip members of the Theme Park &amp; Toy Engineers (TPTE) and aspiring leaders with the essential "soft skills" required to excel in the themed entertainment and toy industries. While technical skill is the "what" of your career, professionalism and leadership constitute the "how" and the "why." Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. Leadership is the ability to guide, inspire, and coordinate people toward a common goal. It’s not reserved for people with "Manager" in their title; it’s an attitude.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780778056180-swrynagdh","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<h1><strong>What is this course about?</strong></h1>\n<p>This course is designed to equip members of the Theme Park &amp; Toy Engineers (TPTE) and aspiring leaders with the essential \"soft skills\" required to excel in the themed entertainment and toy industries. While technical skill is the \"what\" of your career, professionalism and leadership constitute the \"how\" and the \"why.\" Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. Leadership is the ability to guide, inspire, and coordinate people toward a common goal. It’s not reserved for people with \"Manager\" in their title; it’s an attitude.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>27f91756-90e3-43a0-b7aa-bf815ba59ba9</odePageId>
+      <odeBlockId>block-1780778314035-30qdloyiw</odeBlockId>
+      <blockName>Objectives</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>27f91756-90e3-43a0-b7aa-bf815ba59ba9</odePageId>
+          <odeBlockId>block-1780778314035-30qdloyiw</odeBlockId>
+          <odeIdeviceId>idevice-1780778314033-8o9efegce</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>Objectives</h1>
+<p>to zdxgcvnbmn,awzresdfjhbknlmsrxdfcgvhbkl</p>
+<p>and sdgfhjghbknjdrxyfcjhbklnfchgvjkhblnj</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780778314033-8o9efegce","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<h1>Objectives</h1>\n<p>to zdxgcvnbmn,awzresdfjhbknlmsrxdfcgvhbkl</p>\n<p>and sdgfhjghbknjdrxyfcjhbklnfchgvjkhblnj</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780778762135-pmrarbni1</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Professionalism</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Professionalism</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780778762135-pmrarbni1</odePageId>
+      <odeBlockId>block-1780779047753-quxztf2hb</odeBlockId>
+      <blockName>Professionalism</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780778762135-pmrarbni1</odePageId>
+          <odeBlockId>block-1780779047753-quxztf2hb</odeBlockId>
+          <odeIdeviceId>idevice-1780779047752-3qsfhsedo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>
+<p><img src="asset://2adbbdd9-a522-83f0-fac7-37bc5241fcc5" width="450" height="300" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780779047752-3qsfhsedo","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>\n<p><img src=\"asset://2adbbdd9-a522-83f0-fac7-37bc5241fcc5\" width=\"450\" height=\"300\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780779756448-duhxp3h4c</odePageId>
+  <odeParentPageId>page-1780778762135-pmrarbni1</odeParentPageId>
+  <pageName>Video Quiz</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Video Quiz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Video Quiz</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780779756448-duhxp3h4c</odePageId>
+      <odeBlockId>block-1780779767738-x05dbab96</odeBlockId>
+      <blockName>Interactive Video Quiz</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780779756448-duhxp3h4c</odePageId>
+          <odeBlockId>block-1780779767738-x05dbab96</odeBlockId>
+          <odeIdeviceId>idevice-1780779767737-m3vuwdn3k</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-1780779767737-m3vuwdn3k" data-evaluationb="true" data-evaluationid="8d94737b-d3ca-4e49-bc0c-b516ead05310"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=qD0je-DNg40?si=k7FeBjtpfE3i79Ki">com/watch?v=qD0je-DNg40?si=k7FeBjtpfE3i79Ki</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"multipleChoice","question":"<div id=\"genially-animated-16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196014px\" data-initial-top=\"130.76504706559436px\" data-item-id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\">\n<div id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Owning a...\">\n<div>\n<div id=\"genially-animated-4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617247px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\">\n<div id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<div><strong>Accountability</strong></div>\n<div><strong>The \"Reliability\" Factor</strong></div>\n<ul>\n<li>Punctuality: Recognizing that being on time is the first indicator of respect for others' time.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-animated-wrapper\" data-initial-left=\"462.709125013989px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"19c630e0-9271-4376-a676-26e8c267844d\">\n<div id=\"19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Proactive Updates: Learning the \"No Surprises\" rule. If a deliverable (e.g., a ride system CAD file or a toy prototype) is delayed, communicate the change in status immediately.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-animated-wrapper\" data-initial-left=\"815.5938744018056px\" data-initial-top=\"307.4138465214546px\" data-item-id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\">\n<div id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Time Management: Prioritizing high-impact tasks and understanding how your workflow affects the entire engineering team.</li>\n</ul>\n<p><strong>Accountability</strong> is often defined as \"owning the outcome,\" regardless of whether that outcome is a success or a failure. It goes beyond just performing a task; it involves being answerable for the results and the impact of your actions on the team.</p>\n<p> <strong>Key Elements of an Accountable Response</strong>: </p>\n<div id=\"genially-animated-e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"315.16391749372065px\" data-item-id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\">\n<div id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Transpar...\">\n<ul>\n<li>Transparency: No hiding or \"sugar-coating\" the situation.</li>\n</ul>\n<ul>\n<li>Ownership: Using \"I\" statements rather than pointing to external factors.</li>\n</ul>\n<ul>\n<li>Solution-Oriented: Focusing on the next steps and the fix.</li>\n</ul>\n<ul>\n<li>Growth: Identifying what changed in your process to prevent a repeat of the issue.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct accountable action.</strong></p>\n</div>\n</div>\n<div id=\"genially-animated-59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"156.9255655117473px\" data-item-id=\"59f67ed9-db96-4750-be4b-9955716ebd66\">\n<div id=\"59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\"></div>\n</div>\n</div>\n</div>\n</div>\n<div><strong>Owning a Technical </strong><strong>Error</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196017px\" data-initial-top=\"227.36504706559435px\" data-item-id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\">\n<div id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-view-item genially-view-text text-align-justify interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Imagine ...\">\n<div>Imagine you are a project lead responsible for the sensor layout of a new interactive attraction. Two days before the prototype is set to be tested, you realize you miscalculated the detection range, which means the sensors won't trigger correctly for smaller guests.</div>\n<div> </div>\n<div><strong>Managing a Missed Deadline</strong></div>\n<div>You are responsible for submitting a monthly safety compliance report for your department. Due to a personal emergency and poor time management, you realize on Friday afternoon that you won't be able to finish it by the 5:00 PM deadline.</div>\n<div> </div>\n<div>What is the correct accountable actions for these scenarios?</div>\n</div>\n</div>","answers":[["You immediately notify your supervisor and the engineering team. ",1],["You wait for someone to find the bug during testing.",0],["You blame the software that gave you the data.",0],["You contact the stakeholder who receives the report.",1],["You do nothing and hope they don't fond out.",0],["You blame your coworkers for the delay.",0]],"startTime":63},{"type":"multipleChoice","question":"<div id=\"genially-animated-5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"40.925565511747294px\" data-item-id=\"5eba46da-a911-47be-8b20-17c95f6e2940\">\n<div id=\"5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div>\n<div id=\"genially-animated-8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"8734cb46-c3f8-449a-abae-42942133bdb5\">\n<div id=\"8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Attitude\">\n<div><strong>Attitude</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"a592ab98-a628-458a-9bf4-578da48745ff\">\n<div id=\"a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Dem...\">\n<div>The \"Demeanor\" Factor</div>\n<ul>\n<li>Tact vs. Defense: Receiving technical criticism gracefully rather than defensively.</li>\n<li>Appreciation over Entitlement: Replacing \"This is my job\" with \"I am enthusiastic to contribute to this project.\"</li>\n<li>Manners as a Tool: Using simple courtesy to build a collaborative culture.</li>\n</ul>\n<div>\n<div><strong>Attitude</strong> is about your professional demeanor, how you handle friction, and the energy you bring to a team environment. It is often the difference between being a \"technical expert\" and being a \"leader.\"</div>\n</div>\n</div>\n</div>\n</div>\n<div> </div>\n<div><strong>Key Elements of an Attitude Response</strong>:</div>\n</div>\n</div>\n<div id=\"genially-animated-4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"199.16391749372065px\" data-item-id=\"4593518c-9114-49a1-b484-cfed334a1486\">\n<div id=\"4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Curiosit...\">\n<ul>\n<li>Curiosity over Certainty: Asking \"How can we make this better?\" instead of \"Why is this wrong?\"</li>\n<li>Solution-Mindedness: Spending 10% of the time on the problem and 90% on the solution.</li>\n<li>Respectful Manners: Simple acts like saying \"thank you\" for a colleague's input or acknowledging a teammate's hard work during a meeting.</li>\n<li>Resilience: Maintaining a calm and constructive tone even when a project hits a major roadblock or a deadline is moved up.</li>\n</ul>\n<p><strong>Now Look at this scenario and find the correct attitude action.</strong></p>\n<p><strong>Tact vs. Defensiveness</strong></p>\n<p>Imagine you have spent three weeks developing a prototype for a new interactive toy or a ride vehicle mechanism. During a design review, a senior stakeholder tells you that your current design is too complex for the maintenance team to service easily.</p>\n<p>What is the correct accountable actions for these scenarios?</p>\n</div>\n</div>","answers":[["You listen to the concern without interrupting. You respond by saying, \"That’s a great point about long-term maintenance. I was focused on the performance specs, but I see how that complexity could cause downtime. Can we look at the assembly together so I can find ways to simplify it?\"",1],["You immediately explain why the complexity is necessary, point out that the maintenance team \"doesn't understand the tech,\" and feel frustrated that your hard work isn't being appreciated.",0]],"startTime":113},{"type":"multipleChoice","question":"<div id=\"genially-animated-3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\">\n<div id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Audience\">\n<div><strong>Audience</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\">\n<div id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Opt...\">\n<div>The \"Optics\" Factor</div>\n<ul>\n<li>Appropriate Communication: teering clear of gossip and over-sharing personal problems, ensuring conversations remain focused on project goals.</li>\n<li>Professional Image: Understanding that your words and actions determine how colleagues and clients perceive your competence.</li>\n</ul>\n<p><strong>Audience</strong> is about situational awareness. It is the ability to recognize who is observing your actions—whether it’s a client, a supervisor, or a peer—and adjusting your communication style and behavior to meet the professional expectations of that environment.</p>\n<div id=\"genially-animated-3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"22.925565511747294px\" data-item-id=\"3d28a76b-83bb-482a-80e7-f4463783762b\">\n<div id=\"3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div><strong>Key Elements of Audience Awareness:</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"181.16391749372065px\" data-item-id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\">\n<div id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Contextu...\">\n<ul>\n<li>Contextual Tone: Matching your level of formality to the setting (e.g., a workshop vs. a board meeting).</li>\n<li>Emotional Intelligence: Reading the room to see if people are engaged, confused, or concerned.</li>\n<li>The \"Front-Page\" Test: Acting as if your words or actions could be published on the front page of a newspaper or seen by the CEO of your dream company.</li>\n<li>Representing the Brand: Remembering that when you wear the logo, your behavior is no longer just \"personal\"—it is an extension of the organization.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct audience action.</strong></p>\n<p><strong>Tailoring Technical Communication</strong></p>\n<div>\n<p data-path-to-node=\"3\">Imagine you are presenting the progress of a new animatronic project. You have two meetings back-to-back.</p>\n<ul data-path-to-node=\"4\">\n<li>\n<p data-path-to-node=\"4,0,0\"><strong data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">Audience A (Internal Engineering Team)</strong></p>\n</li>\n<li>\n<p data-path-to-node=\"4,1,0\"><strong data-path-to-node=\"4,1,0\" data-index-in-node=\"0\">Audience B (Project Stakeholders/Non-Engineers)</strong></p>\n</li>\n</ul>\n<h3 data-path-to-node=\"5\">The \"Digital Office\" </h3>\n<p data-path-to-node=\"6\">In a student organization or a modern engineering firm, communication often happens on platforms like WhatsApp, Slack, or MS Teams. Because these feel like \"texting,\" it is easy to forget the audience.</p>\n</div>\n<p>What is the correct audience actions for these scenarios?</p>\n</div>\n</div>\n</div>\n</div>","answers":[[" You focus on the specifics of the torque requirements, the Python scripts for the motion control, and the \"near-miss\" failures during testing. This audience needs the \"weeds\" to help solve problems.",1],["You shift your language. Instead of talking about torque and code, you focus on the \"Guest Experience,\" the timeline for completion, and how the movement looks to a visitor. You summarize the technical hurdles as \"optimizing performance\" rather than listing every bug.",1],["You send a message to a group chat with a professor or a project manager that says, \"This project is a mess lol, I’m so done with this\"",0],["You are Rude and offensive to a fellow member of another university club",0]],"startTime":197},{"type":"multipleChoice","question":"<p>After Watching and completing this video answer this question, What Are the 3 A's?</p>","answers":[["Accountable, Abstinence, Association ",0],["Attitude, Audience, Apathy",0],["Accountable, Attitude, Audience",1]],"startTime":238}],"title":"Professionalism by McGillCaPS","description":"<p>Watch this short video from McGillCaPS about Professionalism. Take notes, there will a short quiz within this video.</p>","coverType":"text","i18n":{"start":"Start","results":"Results","slide":"Slide (frame)","score":"Score","seen":"Seen","total":"Total","seeAll":"see all the slides and answer all the questions","noSlides":"This video has no interactive elements.","goOn":"Continue","error":"Error","dataError":"Incompatible code","onlyOne":"Only one interactive video per page.","cover":"Cover","fsWarning":"Exit the fullscreen mode (Esc) to see the current slide","right":"Right!","wrong":"Wrong","sortableListInstructions":"Drag and drop or use the arrows.","up":"Move up","down":"Move down","rightAnswer":"Right answer:","notAnswered":"Please finish the activity","check":"Check","newWindow":"New Window","msgSaveAuto":"Your score will be automatically saved after each question.","msgYouScore":"Your score","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgSeveralScore":"You can save the score as many times as you want","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Interactive video","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":true,"evaluationID":"8d94737b-d3ca-4e49-bc0c-b516ead05310","ideviceID":"idevice-1780779767737-m3vuwdn3k"}				</script>			</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780785043401-mpejyupqz</odePageId>
+  <odeParentPageId>page-1780779756448-duhxp3h4c</odeParentPageId>
+  <pageName>Why It Works</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780785043401-mpejyupqz</odePageId>
+      <odeBlockId>block-1780785043401-e7sv6a05s</odeBlockId>
+      <blockName>Why It Works</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780785043401-mpejyupqz</odePageId>
+          <odeBlockId>block-1780785043401-e7sv6a05s</odeBlockId>
+          <odeIdeviceId>idevice-1780785043401-8o7g1to5v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Accountability why it works:</strong></p>
+<ul>
+<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>
+<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>
+</ul>
+<p><strong>Attitude why it works:</strong></p>
+<ul>
+<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a "collaborative" rather than "combative" team member.</li>
+<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>
+</ul>
+<p><strong>Audience why it works:</strong></p>
+<ul>
+<li>You recognized that "over-engineering" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>
+<li>You understand that anyone in that group—including future employers or mentors—is "the audience." Maintaining a professional digital footprint protects your reputation.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780784786832-7dai0s27c","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Accountability why it works:</strong></p>\n<ul>\n<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>\n<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>\n</ul>\n<p><strong>Attitude why it works:</strong></p>\n<ul>\n<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a \"collaborative\" rather than \"combative\" team member.</li>\n<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>\n</ul>\n<p><strong>Audience why it works:</strong></p>\n<ul>\n<li>You recognized that \"over-engineering\" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>\n<li>You understand that anyone in that group—including future employers or mentors—is \"the audience.\" Maintaining a professional digital footprint protects your reputation.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780783597579-8whah81jt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Leadership</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Leadership</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780783597579-8whah81jt</odePageId>
+      <odeBlockId>block-1780783622058-0r2cu53ht</odeBlockId>
+      <blockName>Leadership</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780783597579-8whah81jt</odePageId>
+          <odeBlockId>block-1780783622058-0r2cu53ht</odeBlockId>
+          <odeIdeviceId>idevice-1780783622058-8bc5bdojt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>
+<p><img src="asset://1e8ddb7b-c307-02a3-9673-2757f2b05147.jpg" width="318" height="424" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780783622058-8bc5bdojt","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>\n<p><img src=\"asset://1e8ddb7b-c307-02a3-9673-2757f2b05147.jpg\" width=\"318\" height=\"424\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780783743209-e4rz8quob</odePageId>
+  <odeParentPageId>page-1780783597579-8whah81jt</odeParentPageId>
+  <pageName>Video Quiz</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Video Quiz</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Video Quiz</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780783743209-e4rz8quob</odePageId>
+      <odeBlockId>block-1780783743209-5trwatqa8</odeBlockId>
+      <blockName>Interactive Video Quiz</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780783743209-e4rz8quob</odePageId>
+          <odeBlockId>block-1780783743209-5trwatqa8</odeBlockId>
+          <odeIdeviceId>idevice-1780783743209-78oeh7o8t</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-1780783743209-78oeh7o8t" data-evaluationb="true" data-evaluationid="8d94737b-d3ca-4e49-bc0c-b516ead05310"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=Vu16aZnvieU?si=ISl7CN6pMlE1kmyP">com/watch?v=Vu16aZnvieU?si=ISl7CN6pMlE1kmyP</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"multipleChoice","question":"<div id=\"genially-animated-16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196014px\" data-initial-top=\"130.76504706559436px\" data-item-id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\">\n<div id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Owning a...\">\n<div>\n<div id=\"genially-animated-4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617247px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\">\n<div id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<div><strong>Accountability</strong></div>\n<div><strong>The \"Reliability\" Factor</strong></div>\n<ul>\n<li>Punctuality: Recognizing that being on time is the first indicator of respect for others' time.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-animated-wrapper\" data-initial-left=\"462.709125013989px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"19c630e0-9271-4376-a676-26e8c267844d\">\n<div id=\"19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Proactive Updates: Learning the \"No Surprises\" rule. If a deliverable (e.g., a ride system CAD file or a toy prototype) is delayed, communicate the change in status immediately.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-animated-wrapper\" data-initial-left=\"815.5938744018056px\" data-initial-top=\"307.4138465214546px\" data-item-id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\">\n<div id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Time Management: Prioritizing high-impact tasks and understanding how your workflow affects the entire engineering team.</li>\n</ul>\n<p><strong>Accountability</strong> is often defined as \"owning the outcome,\" regardless of whether that outcome is a success or a failure. It goes beyond just performing a task; it involves being answerable for the results and the impact of your actions on the team.</p>\n<p> <strong>Key Elements of an Accountable Response</strong>: </p>\n<div id=\"genially-animated-e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"315.16391749372065px\" data-item-id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\">\n<div id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Transpar...\">\n<ul>\n<li>Transparency: No hiding or \"sugar-coating\" the situation.</li>\n</ul>\n<ul>\n<li>Ownership: Using \"I\" statements rather than pointing to external factors.</li>\n</ul>\n<ul>\n<li>Solution-Oriented: Focusing on the next steps and the fix.</li>\n</ul>\n<ul>\n<li>Growth: Identifying what changed in your process to prevent a repeat of the issue.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct accountable action.</strong></p>\n</div>\n</div>\n<div id=\"genially-animated-59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"156.9255655117473px\" data-item-id=\"59f67ed9-db96-4750-be4b-9955716ebd66\">\n<div id=\"59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\"></div>\n</div>\n</div>\n</div>\n</div>\n<div><strong>Owning a Technical </strong><strong>Error</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196017px\" data-initial-top=\"227.36504706559435px\" data-item-id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\">\n<div id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-view-item genially-view-text text-align-justify interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Imagine ...\">\n<div>Imagine you are a project lead responsible for the sensor layout of a new interactive attraction. Two days before the prototype is set to be tested, you realize you miscalculated the detection range, which means the sensors won't trigger correctly for smaller guests.</div>\n<div> </div>\n<div><strong>Managing a Missed Deadline</strong></div>\n<div>You are responsible for submitting a monthly safety compliance report for your department. Due to a personal emergency and poor time management, you realize on Friday afternoon that you won't be able to finish it by the 5:00 PM deadline.</div>\n<div> </div>\n<div>What is the correct accountable actions for these scenarios?</div>\n</div>\n</div>","answers":[["You immediately notify your supervisor and the engineering team. ",1],["You wait for someone to find the bug during testing.",0],["You blame the software that gave you the data.",0],["You contact the stakeholder who receives the report.",1],["You do nothing and hope they don't fond out.",0],["You blame your coworkers for the delay.",0]],"startTime":63},{"type":"multipleChoice","question":"<div id=\"genially-animated-5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"40.925565511747294px\" data-item-id=\"5eba46da-a911-47be-8b20-17c95f6e2940\">\n<div id=\"5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div>\n<div id=\"genially-animated-8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"8734cb46-c3f8-449a-abae-42942133bdb5\">\n<div id=\"8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Attitude\">\n<div><strong>Attitude</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"a592ab98-a628-458a-9bf4-578da48745ff\">\n<div id=\"a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Dem...\">\n<div>The \"Demeanor\" Factor</div>\n<ul>\n<li>Tact vs. Defense: Receiving technical criticism gracefully rather than defensively.</li>\n<li>Appreciation over Entitlement: Replacing \"This is my job\" with \"I am enthusiastic to contribute to this project.\"</li>\n<li>Manners as a Tool: Using simple courtesy to build a collaborative culture.</li>\n</ul>\n<div>\n<div><strong>Attitude</strong> is about your professional demeanor, how you handle friction, and the energy you bring to a team environment. It is often the difference between being a \"technical expert\" and being a \"leader.\"</div>\n</div>\n</div>\n</div>\n</div>\n<div> </div>\n<div><strong>Key Elements of an Attitude Response</strong>:</div>\n</div>\n</div>\n<div id=\"genially-animated-4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"199.16391749372065px\" data-item-id=\"4593518c-9114-49a1-b484-cfed334a1486\">\n<div id=\"4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Curiosit...\">\n<ul>\n<li>Curiosity over Certainty: Asking \"How can we make this better?\" instead of \"Why is this wrong?\"</li>\n<li>Solution-Mindedness: Spending 10% of the time on the problem and 90% on the solution.</li>\n<li>Respectful Manners: Simple acts like saying \"thank you\" for a colleague's input or acknowledging a teammate's hard work during a meeting.</li>\n<li>Resilience: Maintaining a calm and constructive tone even when a project hits a major roadblock or a deadline is moved up.</li>\n</ul>\n<p><strong>Now Look at this scenario and find the correct attitude action.</strong></p>\n<p><strong>Tact vs. Defensiveness</strong></p>\n<p>Imagine you have spent three weeks developing a prototype for a new interactive toy or a ride vehicle mechanism. During a design review, a senior stakeholder tells you that your current design is too complex for the maintenance team to service easily.</p>\n<p>What is the correct accountable actions for these scenarios?</p>\n</div>\n</div>","answers":[["You listen to the concern without interrupting. You respond by saying, \"That’s a great point about long-term maintenance. I was focused on the performance specs, but I see how that complexity could cause downtime. Can we look at the assembly together so I can find ways to simplify it?\"",1],["You immediately explain why the complexity is necessary, point out that the maintenance team \"doesn't understand the tech,\" and feel frustrated that your hard work isn't being appreciated.",0]],"startTime":113},{"type":"multipleChoice","question":"<div id=\"genially-animated-3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\">\n<div id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Audience\">\n<div><strong>Audience</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\">\n<div id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Opt...\">\n<div>The \"Optics\" Factor</div>\n<ul>\n<li>Appropriate Communication: teering clear of gossip and over-sharing personal problems, ensuring conversations remain focused on project goals.</li>\n<li>Professional Image: Understanding that your words and actions determine how colleagues and clients perceive your competence.</li>\n</ul>\n<p><strong>Audience</strong> is about situational awareness. It is the ability to recognize who is observing your actions—whether it’s a client, a supervisor, or a peer—and adjusting your communication style and behavior to meet the professional expectations of that environment.</p>\n<div id=\"genially-animated-3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"22.925565511747294px\" data-item-id=\"3d28a76b-83bb-482a-80e7-f4463783762b\">\n<div id=\"3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div><strong>Key Elements of Audience Awareness:</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"181.16391749372065px\" data-item-id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\">\n<div id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Contextu...\">\n<ul>\n<li>Contextual Tone: Matching your level of formality to the setting (e.g., a workshop vs. a board meeting).</li>\n<li>Emotional Intelligence: Reading the room to see if people are engaged, confused, or concerned.</li>\n<li>The \"Front-Page\" Test: Acting as if your words or actions could be published on the front page of a newspaper or seen by the CEO of your dream company.</li>\n<li>Representing the Brand: Remembering that when you wear the logo, your behavior is no longer just \"personal\"—it is an extension of the organization.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct audience action.</strong></p>\n<p><strong>Tailoring Technical Communication</strong></p>\n<div>\n<p data-path-to-node=\"3\">Imagine you are presenting the progress of a new animatronic project. You have two meetings back-to-back.</p>\n<ul data-path-to-node=\"4\">\n<li>\n<p data-path-to-node=\"4,0,0\"><strong data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">Audience A (Internal Engineering Team)</strong></p>\n</li>\n<li>\n<p data-path-to-node=\"4,1,0\"><strong data-path-to-node=\"4,1,0\" data-index-in-node=\"0\">Audience B (Project Stakeholders/Non-Engineers)</strong></p>\n</li>\n</ul>\n<h3 data-path-to-node=\"5\">The \"Digital Office\" </h3>\n<p data-path-to-node=\"6\">In a student organization or a modern engineering firm, communication often happens on platforms like WhatsApp, Slack, or MS Teams. Because these feel like \"texting,\" it is easy to forget the audience.</p>\n</div>\n<p>What is the correct audience actions for these scenarios?</p>\n</div>\n</div>\n</div>\n</div>","answers":[[" You focus on the specifics of the torque requirements, the Python scripts for the motion control, and the \"near-miss\" failures during testing. This audience needs the \"weeds\" to help solve problems.",1],["You shift your language. Instead of talking about torque and code, you focus on the \"Guest Experience,\" the timeline for completion, and how the movement looks to a visitor. You summarize the technical hurdles as \"optimizing performance\" rather than listing every bug.",1],["You send a message to a group chat with a professor or a project manager that says, \"This project is a mess lol, I’m so done with this\"",0],["You are Rude and offensive to a fellow member of another university club",0]],"startTime":197},{"type":"multipleChoice","question":"<p>After Watching and completing this video answer this question, What Are the 3 A's?</p>","answers":[["Accountable, Abstinence, Association ",0],["Attitude, Audience, Apathy",0],["Accountable, Attitude, Audience",1]],"startTime":238}],"title":"Leadership by McGillCaPS","description":"<p>Watch this short video from McGillCaPS about Leadership. Take notes, there will a short quiz within this video.</p>","coverType":"text","i18n":{"start":"Start","results":"Results","slide":"Slide (frame)","score":"Score","seen":"Seen","total":"Total","seeAll":"see all the slides and answer all the questions","noSlides":"This video has no interactive elements.","goOn":"Continue","error":"Error","dataError":"Incompatible code","onlyOne":"Only one interactive video per page.","cover":"Cover","fsWarning":"Exit the fullscreen mode (Esc) to see the current slide","right":"Right!","wrong":"Wrong","sortableListInstructions":"Drag and drop or use the arrows.","up":"Move up","down":"Move down","rightAnswer":"Right answer:","notAnswered":"Please finish the activity","check":"Check","newWindow":"New Window","msgSaveAuto":"Your score will be automatically saved after each question.","msgYouScore":"Your score","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgSeveralScore":"You can save the score as many times as you want","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Interactive video","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":true,"evaluationID":"8d94737b-d3ca-4e49-bc0c-b516ead05310","ideviceID":"idevice-1780783743209-78oeh7o8t"}				</script>			</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780785035020-h2vwjirxi</odePageId>
+  <odeParentPageId>page-1780783743209-e4rz8quob</odeParentPageId>
+  <pageName>Why It Works</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780785035020-h2vwjirxi</odePageId>
+      <odeBlockId>block-1780785035020-rsq9klg98</odeBlockId>
+      <blockName>Why It Works</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780785035020-h2vwjirxi</odePageId>
+          <odeBlockId>block-1780785035020-rsq9klg98</odeBlockId>
+          <odeIdeviceId>idevice-1780785035020-h1szkrgnm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Accountability why it works:</strong></p>
+<ul>
+<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>
+<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>
+</ul>
+<p><strong>Attitude why it works:</strong></p>
+<ul>
+<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a "collaborative" rather than "combative" team member.</li>
+<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>
+</ul>
+<p><strong>Audience why it works:</strong></p>
+<ul>
+<li>You recognized that "over-engineering" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>
+<li>You understand that anyone in that group—including future employers or mentors—is "the audience." Maintaining a professional digital footprint protects your reputation.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780784786832-7dai0s27c","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Accountability why it works:</strong></p>\n<ul>\n<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>\n<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>\n</ul>\n<p><strong>Attitude why it works:</strong></p>\n<ul>\n<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a \"collaborative\" rather than \"combative\" team member.</li>\n<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>\n</ul>\n<p><strong>Audience why it works:</strong></p>\n<ul>\n<li>You recognized that \"over-engineering\" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>\n<li>You understand that anyone in that group—including future employers or mentors—is \"the audience.\" Maintaining a professional digital footprint protects your reputation.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780785681125-xa4wqx38r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Collaboration</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Collaboration</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Collaboration</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780785681125-xa4wqx38r</odePageId>
+      <odeBlockId>block-1780785681126-f9gc3dquo</odeBlockId>
+      <blockName>Leadership</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780785681125-xa4wqx38r</odePageId>
+          <odeBlockId>block-1780785681126-f9gc3dquo</odeBlockId>
+          <odeIdeviceId>idevice-1780785681126-xinmoylnf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>
+<p><img src="asset://d6db2fed-8485-ca94-7b20-0160bd7d81bd.jpg" width="458" height="343" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780785681126-xinmoylnf","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Professionalism isn't just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. When you maintain high standards of professionalism—especially during tight deadlines or unexpected crises—you build a reputation as a dependable partner. Stakeholders, clients, and team members trust that you will deliver quality work and handle sensitive challenges with grace.</p>\n<p><img src=\"asset://d6db2fed-8485-ca94-7b20-0160bd7d81bd.jpg\" width=\"458\" height=\"343\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780785681126-7i4pannqo</odePageId>
+  <odeParentPageId>page-1780785681125-xa4wqx38r</odeParentPageId>
+  <pageName>Video Quiz</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Video Quiz</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780785681126-7i4pannqo</odePageId>
+      <odeBlockId>block-1780785681126-0mes3xrla</odeBlockId>
+      <blockName>Interactive Video Quiz</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780785681126-7i4pannqo</odePageId>
+          <odeBlockId>block-1780785681126-0mes3xrla</odeBlockId>
+          <odeIdeviceId>idevice-1780785681126-13c7giiwp</odeIdeviceId>
+          <odeIdeviceTypeName>interactive-video</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="game-evaluation-ids js-hidden" data-id="idevice-1780783743209-78oeh7o8t" data-evaluationb="true" data-evaluationid="8d94737b-d3ca-4e49-bc0c-b516ead05310"></div>			<div class="exe-interactive-video">				<p id="exe-interactive-video-file" class="js-hidden">					<a href="https://www.youtube.com/watch?v=Vu16aZnvieU?si=ISl7CN6pMlE1kmyP">com/watch?v=Vu16aZnvieU?si=ISl7CN6pMlE1kmyP</a>				</p>				<script id="exe-interactive-video-contents" type="application/json">					
+{"slides":[{"type":"multipleChoice","question":"<div id=\"genially-animated-16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196014px\" data-initial-top=\"130.76504706559436px\" data-item-id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\">\n<div id=\"16aacaec-282c-4b54-b6b7-0bf35dc23d17\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Owning a...\">\n<div>\n<div id=\"genially-animated-4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617247px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\">\n<div id=\"4e94ef12-4a8f-43e6-969a-ebf5cd238806\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<div><strong>Accountability</strong></div>\n<div><strong>The \"Reliability\" Factor</strong></div>\n<ul>\n<li>Punctuality: Recognizing that being on time is the first indicator of respect for others' time.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-animated-wrapper\" data-initial-left=\"462.709125013989px\" data-initial-top=\"307.4138465214547px\" data-item-id=\"19c630e0-9271-4376-a676-26e8c267844d\">\n<div id=\"19c630e0-9271-4376-a676-26e8c267844d\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Proactive Updates: Learning the \"No Surprises\" rule. If a deliverable (e.g., a ride system CAD file or a toy prototype) is delayed, communicate the change in status immediately.</li>\n</ul>\n</div>\n</div>\n<div id=\"genially-animated-b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-animated-wrapper\" data-initial-left=\"815.5938744018056px\" data-initial-top=\"307.4138465214546px\" data-item-id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\">\n<div id=\"b0ac2ce3-e2dc-45db-86d2-74b49b95e231\" class=\"genially-view-item genially-view-text text-align-left interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"4\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Título\">\n<ul>\n<li>Time Management: Prioritizing high-impact tasks and understanding how your workflow affects the entire engineering team.</li>\n</ul>\n<p><strong>Accountability</strong> is often defined as \"owning the outcome,\" regardless of whether that outcome is a success or a failure. It goes beyond just performing a task; it involves being answerable for the results and the impact of your actions on the team.</p>\n<p> <strong>Key Elements of an Accountable Response</strong>: </p>\n<div id=\"genially-animated-e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"315.16391749372065px\" data-item-id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\">\n<div id=\"e50465c7-e6c6-46ed-9dd6-81f1da9a1381\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Transpar...\">\n<ul>\n<li>Transparency: No hiding or \"sugar-coating\" the situation.</li>\n</ul>\n<ul>\n<li>Ownership: Using \"I\" statements rather than pointing to external factors.</li>\n</ul>\n<ul>\n<li>Solution-Oriented: Focusing on the next steps and the fix.</li>\n</ul>\n<ul>\n<li>Growth: Identifying what changed in your process to prevent a repeat of the issue.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct accountable action.</strong></p>\n</div>\n</div>\n<div id=\"genially-animated-59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"156.9255655117473px\" data-item-id=\"59f67ed9-db96-4750-be4b-9955716ebd66\">\n<div id=\"59f67ed9-db96-4750-be4b-9955716ebd66\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\"></div>\n</div>\n</div>\n</div>\n</div>\n<div><strong>Owning a Technical </strong><strong>Error</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-animated-wrapper\" data-initial-left=\"173.20457329196017px\" data-initial-top=\"227.36504706559435px\" data-item-id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\">\n<div id=\"9afd06bb-50d8-4508-b288-809c2aab6ddb\" class=\"genially-view-item genially-view-text text-align-justify interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Imagine ...\">\n<div>Imagine you are a project lead responsible for the sensor layout of a new interactive attraction. Two days before the prototype is set to be tested, you realize you miscalculated the detection range, which means the sensors won't trigger correctly for smaller guests.</div>\n<div> </div>\n<div><strong>Managing a Missed Deadline</strong></div>\n<div>You are responsible for submitting a monthly safety compliance report for your department. Due to a personal emergency and poor time management, you realize on Friday afternoon that you won't be able to finish it by the 5:00 PM deadline.</div>\n<div> </div>\n<div>What is the correct accountable actions for these scenarios?</div>\n</div>\n</div>","answers":[["You immediately notify your supervisor and the engineering team. ",1],["You wait for someone to find the bug during testing.",0],["You blame the software that gave you the data.",0],["You contact the stakeholder who receives the report.",1],["You do nothing and hope they don't fond out.",0],["You blame your coworkers for the delay.",0]],"startTime":63},{"type":"multipleChoice","question":"<div id=\"genially-animated-5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"40.925565511747294px\" data-item-id=\"5eba46da-a911-47be-8b20-17c95f6e2940\">\n<div id=\"5eba46da-a911-47be-8b20-17c95f6e2940\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div>\n<div id=\"genially-animated-8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"8734cb46-c3f8-449a-abae-42942133bdb5\">\n<div id=\"8734cb46-c3f8-449a-abae-42942133bdb5\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Attitude\">\n<div><strong>Attitude</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"a592ab98-a628-458a-9bf4-578da48745ff\">\n<div id=\"a592ab98-a628-458a-9bf4-578da48745ff\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Dem...\">\n<div>The \"Demeanor\" Factor</div>\n<ul>\n<li>Tact vs. Defense: Receiving technical criticism gracefully rather than defensively.</li>\n<li>Appreciation over Entitlement: Replacing \"This is my job\" with \"I am enthusiastic to contribute to this project.\"</li>\n<li>Manners as a Tool: Using simple courtesy to build a collaborative culture.</li>\n</ul>\n<div>\n<div><strong>Attitude</strong> is about your professional demeanor, how you handle friction, and the energy you bring to a team environment. It is often the difference between being a \"technical expert\" and being a \"leader.\"</div>\n</div>\n</div>\n</div>\n</div>\n<div> </div>\n<div><strong>Key Elements of an Attitude Response</strong>:</div>\n</div>\n</div>\n<div id=\"genially-animated-4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"199.16391749372065px\" data-item-id=\"4593518c-9114-49a1-b484-cfed334a1486\">\n<div id=\"4593518c-9114-49a1-b484-cfed334a1486\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Curiosit...\">\n<ul>\n<li>Curiosity over Certainty: Asking \"How can we make this better?\" instead of \"Why is this wrong?\"</li>\n<li>Solution-Mindedness: Spending 10% of the time on the problem and 90% on the solution.</li>\n<li>Respectful Manners: Simple acts like saying \"thank you\" for a colleague's input or acknowledging a teammate's hard work during a meeting.</li>\n<li>Resilience: Maintaining a calm and constructive tone even when a project hits a major roadblock or a deadline is moved up.</li>\n</ul>\n<p><strong>Now Look at this scenario and find the correct attitude action.</strong></p>\n<p><strong>Tact vs. Defensiveness</strong></p>\n<p>Imagine you have spent three weeks developing a prototype for a new interactive toy or a ride vehicle mechanism. During a design review, a senior stakeholder tells you that your current design is too complex for the maintenance team to service easily.</p>\n<p>What is the correct accountable actions for these scenarios?</p>\n</div>\n</div>","answers":[["You listen to the concern without interrupting. You respond by saying, \"That’s a great point about long-term maintenance. I was focused on the performance specs, but I see how that complexity could cause downtime. Can we look at the assembly together so I can find ways to simplify it?\"",1],["You immediately explain why the complexity is necessary, point out that the maintenance team \"doesn't understand the tech,\" and feel frustrated that your hard work isn't being appreciated.",0]],"startTime":113},{"type":"multipleChoice","question":"<div id=\"genially-animated-3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"26.63296446446725px\" data-item-id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\">\n<div id=\"3db6eb28-86ae-4802-ba5e-f246e225f0d6\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Audience\">\n<div><strong>Audience</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-animated-wrapper\" data-initial-left=\"109.82437562617244px\" data-initial-top=\"120.93296446446726px\" data-item-id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\">\n<div id=\"9dcf39ba-7f2a-4dab-8010-dbe1a9b9c955\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"3\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"The &quot;Opt...\">\n<div>The \"Optics\" Factor</div>\n<ul>\n<li>Appropriate Communication: teering clear of gossip and over-sharing personal problems, ensuring conversations remain focused on project goals.</li>\n<li>Professional Image: Understanding that your words and actions determine how colleagues and clients perceive your competence.</li>\n</ul>\n<p><strong>Audience</strong> is about situational awareness. It is the ability to recognize who is observing your actions—whether it’s a client, a supervisor, or a peer—and adjusting your communication style and behavior to meet the professional expectations of that environment.</p>\n<div id=\"genially-animated-3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-animated-wrapper\" data-initial-left=\"705.4486990978847px\" data-initial-top=\"22.925565511747294px\" data-item-id=\"3d28a76b-83bb-482a-80e7-f4463783762b\">\n<div id=\"3d28a76b-83bb-482a-80e7-f4463783762b\" class=\"genially-view-item genially-view-text interparagraph_small genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" role=\"heading\" aria-level=\"2\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Key Elem...\">\n<div><strong>Key Elements of Audience Awareness:</strong></div>\n</div>\n</div>\n<div id=\"genially-animated-6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-animated-wrapper\" data-initial-left=\"680.6470633556972px\" data-initial-top=\"181.16391749372065px\" data-item-id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\">\n<div id=\"6ea0948e-8b7c-4ae1-9168-168f475a2874\" class=\"genially-view-item genially-view-text interparagraph_medium genially-view-text-indent-list-v4 genially-view-text-indent-paragraph-v5\" data-cy=\"textItemView\" data-genially-id=\"69d0635a03d6a23c4c636b4e\" data-noddus-item-name=\"Contextu...\">\n<ul>\n<li>Contextual Tone: Matching your level of formality to the setting (e.g., a workshop vs. a board meeting).</li>\n<li>Emotional Intelligence: Reading the room to see if people are engaged, confused, or concerned.</li>\n<li>The \"Front-Page\" Test: Acting as if your words or actions could be published on the front page of a newspaper or seen by the CEO of your dream company.</li>\n<li>Representing the Brand: Remembering that when you wear the logo, your behavior is no longer just \"personal\"—it is an extension of the organization.</li>\n</ul>\n<p><strong>Now Look at these scenarios and find the correct audience action.</strong></p>\n<p><strong>Tailoring Technical Communication</strong></p>\n<div>\n<p data-path-to-node=\"3\">Imagine you are presenting the progress of a new animatronic project. You have two meetings back-to-back.</p>\n<ul data-path-to-node=\"4\">\n<li>\n<p data-path-to-node=\"4,0,0\"><strong data-path-to-node=\"4,0,0\" data-index-in-node=\"0\">Audience A (Internal Engineering Team)</strong></p>\n</li>\n<li>\n<p data-path-to-node=\"4,1,0\"><strong data-path-to-node=\"4,1,0\" data-index-in-node=\"0\">Audience B (Project Stakeholders/Non-Engineers)</strong></p>\n</li>\n</ul>\n<h3 data-path-to-node=\"5\">The \"Digital Office\" </h3>\n<p data-path-to-node=\"6\">In a student organization or a modern engineering firm, communication often happens on platforms like WhatsApp, Slack, or MS Teams. Because these feel like \"texting,\" it is easy to forget the audience.</p>\n</div>\n<p>What is the correct audience actions for these scenarios?</p>\n</div>\n</div>\n</div>\n</div>","answers":[[" You focus on the specifics of the torque requirements, the Python scripts for the motion control, and the \"near-miss\" failures during testing. This audience needs the \"weeds\" to help solve problems.",1],["You shift your language. Instead of talking about torque and code, you focus on the \"Guest Experience,\" the timeline for completion, and how the movement looks to a visitor. You summarize the technical hurdles as \"optimizing performance\" rather than listing every bug.",1],["You send a message to a group chat with a professor or a project manager that says, \"This project is a mess lol, I’m so done with this\"",0],["You are Rude and offensive to a fellow member of another university club",0]],"startTime":197},{"type":"multipleChoice","question":"<p>After Watching and completing this video answer this question, What Are the 3 A's?</p>","answers":[["Accountable, Abstinence, Association ",0],["Attitude, Audience, Apathy",0],["Accountable, Attitude, Audience",1]],"startTime":238}],"title":"Leadership by McGillCaPS","description":"<p>Watch this short video from McGillCaPS about Leadership. Take notes, there will a short quiz within this video.</p>","coverType":"text","i18n":{"start":"Start","results":"Results","slide":"Slide (frame)","score":"Score","seen":"Seen","total":"Total","seeAll":"see all the slides and answer all the questions","noSlides":"This video has no interactive elements.","goOn":"Continue","error":"Error","dataError":"Incompatible code","onlyOne":"Only one interactive video per page.","cover":"Cover","fsWarning":"Exit the fullscreen mode (Esc) to see the current slide","right":"Right!","wrong":"Wrong","sortableListInstructions":"Drag and drop or use the arrows.","up":"Move up","down":"Move down","rightAnswer":"Right answer:","notAnswered":"Please finish the activity","check":"Check","newWindow":"New Window","msgSaveAuto":"Your score will be automatically saved after each question.","msgYouScore":"Your score","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgSeveralScore":"You can save the score as many times as you want","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Interactive video","youtubePreviewNotice":"YouTube videos cannot be embedded in preview mode. They will work correctly when exported and served from a web server."},"scorm":{"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100},"scoreNIA":false,"evaluation":true,"evaluationID":"8d94737b-d3ca-4e49-bc0c-b516ead05310","ideviceID":"idevice-1780783743209-78oeh7o8t"}				</script>			</div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780785681127-poras31uy</odePageId>
+  <odeParentPageId>page-1780785681126-7i4pannqo</odeParentPageId>
+  <pageName>Why It Works</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Why It Works</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780785681127-poras31uy</odePageId>
+      <odeBlockId>block-1780785681127-fuwso1uzr</odeBlockId>
+      <blockName>Why It Works</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780785681127-poras31uy</odePageId>
+          <odeBlockId>block-1780785681127-fuwso1uzr</odeBlockId>
+          <odeIdeviceId>idevice-1780785681127-g47oddlaq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Accountability why it works:</strong></p>
+<ul>
+<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>
+<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>
+</ul>
+<p><strong>Attitude why it works:</strong></p>
+<ul>
+<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a "collaborative" rather than "combative" team member.</li>
+<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>
+</ul>
+<p><strong>Audience why it works:</strong></p>
+<ul>
+<li>You recognized that "over-engineering" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>
+<li>You understand that anyone in that group—including future employers or mentors—is "the audience." Maintaining a professional digital footprint protects your reputation.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780784786832-7dai0s27c","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>Accountability why it works:</strong></p>\n<ul>\n<li>You prioritized the project's success over your own ego, provided a solution alongside the bad news, and took full responsibility for the oversight.</li>\n<li>Accountability means communicating before the failure occurs. You provided a clear timeline for the fix and, most importantly, explained how you will prevent the mistake from recurring.</li>\n</ul>\n<p><strong>Attitude why it works:</strong></p>\n<ul>\n<li>You shifted from protecting your ego to solving a project problem. This builds trust and shows you are a \"collaborative\" rather than \"combative\" team member.</li>\n<li>Leadership is shown by your willingness to do what is necessary for the team’s success, not just what is fun. A positive attitude toward mundane tasks signals to your superiors that you are reliable and ready for greater responsibility.</li>\n</ul>\n<p><strong>Audience why it works:</strong></p>\n<ul>\n<li>You recognized that \"over-engineering\" a presentation for non-engineers can cause confusion or unnecessary alarm. By adjusting for your audience, you ensure the right message is received.</li>\n<li>You understand that anyone in that group—including future employers or mentors—is \"the audience.\" Maintaining a professional digital footprint protects your reputation.</li>\n</ul>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780784253488-f1dfjhbaq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Certificate of Completion</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Certificate of Completion</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Certificate of Completion</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Certificate of Completion</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780784253488-f1dfjhbaq</odePageId>
+      <odeBlockId>block-1780784256683-g7qydu7or</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780784253488-f1dfjhbaq</odePageId>
+          <odeBlockId>block-1780784256683-g7qydu7or</odeBlockId>
+          <odeIdeviceId>idevice-1780784256682-3mitjaoq5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780784256682-3mitjaoq5","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>

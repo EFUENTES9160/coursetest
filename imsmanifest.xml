@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="eXe-MANIFEST-mq2xw0isllm0n"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:imsmd="http://www.imsglobal.org/xsd/imsmd_v1p2">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>imslrm.xml</adlcp:location>
+  </metadata>
+  <organizations default="eXe-mq2xw0isllm0n">
+    <organization identifier="eXe-mq2xw0isllm0n" structure="hierarchical">
+      <title>Leadership &amp; Professionalism </title>
+      <item identifier="ITEM-27f91756-90e3-43a0-b7aa-bf815ba59ba9" identifierref="RES-27f91756-90e3-43a0-b7aa-bf815ba59ba9" isvisible="true">
+        <title>Description &amp; Objectives</title>
+      </item>
+      <item identifier="ITEM-page-1780778762135-pmrarbni1" identifierref="RES-page-1780778762135-pmrarbni1" isvisible="true">
+        <title>Professionalism</title>
+        <item identifier="ITEM-page-1780779756448-duhxp3h4c" identifierref="RES-page-1780779756448-duhxp3h4c" isvisible="true">
+          <title>Video Quiz</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1780783597579-8whah81jt" identifierref="RES-page-1780783597579-8whah81jt" isvisible="true">
+        <title>Leadership</title>
+        <item identifier="ITEM-page-1780783743209-e4rz8quob" identifierref="RES-page-1780783743209-e4rz8quob" isvisible="true">
+          <title>Video Quiz</title>
+        </item>
+      </item>
+      <item identifier="ITEM-page-1780785681125-xa4wqx38r" identifierref="RES-page-1780785681125-xa4wqx38r" isvisible="true">
+        <title>Collaboration</title>
+        <item identifier="ITEM-page-1780785681126-7i4pannqo" identifierref="RES-page-1780785681126-7i4pannqo" isvisible="true">
+          <title>Video Quiz</title>
+          <item identifier="ITEM-page-1780785681127-poras31uy" identifierref="RES-page-1780785681127-poras31uy" isvisible="true">
+            <title>Why It Works</title>
+          </item>
+        </item>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES-27f91756-90e3-43a0-b7aa-bf815ba59ba9" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780778762135-pmrarbni1" type="webcontent" adlcp:scormtype="sco" href="html/professionalism.html">
+      <file href="html/professionalism.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780779756448-duhxp3h4c" type="webcontent" adlcp:scormtype="sco" href="html/video-quiz.html">
+      <file href="html/video-quiz.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780783597579-8whah81jt" type="webcontent" adlcp:scormtype="sco" href="html/leadership.html">
+      <file href="html/leadership.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780783743209-e4rz8quob" type="webcontent" adlcp:scormtype="sco" href="html/video-quiz-2.html">
+      <file href="html/video-quiz-2.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780785681125-xa4wqx38r" type="webcontent" adlcp:scormtype="sco" href="html/collaboration.html">
+      <file href="html/collaboration.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780785681126-7i4pannqo" type="webcontent" adlcp:scormtype="sco" href="html/video-quiz-3.html">
+      <file href="html/video-quiz-3.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="RES-page-1780785681127-poras31uy" type="webcontent" adlcp:scormtype="sco" href="html/why-it-works.html">
+      <file href="html/why-it-works.html"/>
+      <dependency identifierref="COMMON_FILES"/>
+    </resource>
+    <resource identifier="COMMON_FILES" type="webcontent" adlcp:scormtype="asset">
+      <file href="content.dtd"/>
+      <file href="content.xml"/>
+      <file href="content/css/base.css"/>
+      <file href="content/resources/1bbefa5a-5222-d406-54fb-e4157a794e46.jpg"/>
+      <file href="content/resources/1e8ddb7b-c307-02a3-9673-2757f2b05147.jpg"/>
+      <file href="content/resources/20240520_110626(0).jpg"/>
+      <file href="content/resources/2adbbdd9-a522-83f0-fac7-37bc5241fcc5.jpg"/>
+      <file href="content/resources/IMG-20240520-WA0054.jpg"/>
+      <file href="content/resources/d6db2fed-8485-ca94-7b20-0160bd7d81bd.jpg"/>
+      <file href="content/resources/leadership.jpg"/>
+      <file href="content/resources/proffesional.jpg"/>
+      <file href="idevices/interactive-video/exequextsq.svg"/>
+      <file href="idevices/interactive-video/interactive-video-bg.gif"/>
+      <file href="idevices/interactive-video/interactive-video-less.gif"/>
+      <file href="idevices/interactive-video/interactive-video-loading.gif"/>
+      <file href="idevices/interactive-video/interactive-video-more.gif"/>
+      <file href="idevices/interactive-video/interactive-video-sorter.png"/>
+      <file href="idevices/interactive-video/interactive-video.css"/>
+      <file href="idevices/interactive-video/interactive-video.js"/>
+      <file href="idevices/text/exequextsq.svg"/>
+      <file href="idevices/text/text.css"/>
+      <file href="idevices/text/text.html"/>
+      <file href="idevices/text/text.js"/>
+      <file href="imslrm.xml"/>
+      <file href="libs/SCOFunctions.js"/>
+      <file href="libs/SCORM_API_wrapper.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js"/>
+      <file href="libs/bootstrap/bootstrap.bundle.min.js.map"/>
+      <file href="libs/bootstrap/bootstrap.min.css"/>
+      <file href="libs/bootstrap/bootstrap.min.css.map"/>
+      <file href="libs/common.js"/>
+      <file href="libs/common_i18n.js"/>
+      <file href="libs/exe_export.js"/>
+      <file href="libs/favicon.ico"/>
+      <file href="libs/jquery/jquery.min.js"/>
+      <file href="theme/config.xml"/>
+      <file href="theme/fonts/Atkinson-Hyperlegible-Regular-102a.woff2"/>
+      <file href="theme/icons/emociones.svg"/>
+      <file href="theme/icons/udl_eng_aprenderaprender.svg"/>
+      <file href="theme/icons/udl_eng_culturales.svg"/>
+      <file href="theme/icons/udl_eng_curiosidad.svg"/>
+      <file href="theme/icons/udl_eng_descarga.svg"/>
+      <file href="theme/icons/udl_eng_objetivos.svg"/>
+      <file href="theme/icons/udl_eng_orientaciones.svg"/>
+      <file href="theme/icons/udl_eng_reto.svg"/>
+      <file href="theme/icons/udl_eng_rss.svg"/>
+      <file href="theme/icons/udl_eng_rubrica.svg"/>
+      <file href="theme/icons/udl_eng_saber.svg"/>
+      <file href="theme/icons/udl_eng_temporalizacion.svg"/>
+      <file href="theme/icons/udl_exp_actividad.svg"/>
+      <file href="theme/icons/udl_exp_canto.svg"/>
+      <file href="theme/icons/udl_exp_competenciadigital.svg"/>
+      <file href="theme/icons/udl_exp_coproduccionoral.svg"/>
+      <file href="theme/icons/udl_exp_coproducciontxt.svg"/>
+      <file href="theme/icons/udl_exp_cuestionario.svg"/>
+      <file href="theme/icons/udl_exp_debate.svg"/>
+      <file href="theme/icons/udl_exp_ejercicio.svg"/>
+      <file href="theme/icons/udl_exp_escribe.svg"/>
+      <file href="theme/icons/udl_exp_escucha.svg"/>
+      <file href="theme/icons/udl_exp_graba.svg"/>
+      <file href="theme/icons/udl_exp_grupoheterogeneo.svg"/>
+      <file href="theme/icons/udl_exp_grupohomogeneo.svg"/>
+      <file href="theme/icons/udl_exp_habla.svg"/>
+      <file href="theme/icons/udl_exp_interactivo.svg"/>
+      <file href="theme/icons/udl_exp_juego.svg"/>
+      <file href="theme/icons/udl_exp_lee.svg"/>
+      <file href="theme/icons/udl_exp_lenguasignos.svg"/>
+      <file href="theme/icons/udl_exp_manipula.svg"/>
+      <file href="theme/icons/udl_exp_mediacion.svg"/>
+      <file href="theme/icons/udl_exp_musica.svg"/>
+      <file href="theme/icons/udl_exp_practicamusical.svg"/>
+      <file href="theme/icons/udl_exp_tarea.svg"/>
+      <file href="theme/icons/udl_exp_tareagrupal.svg"/>
+      <file href="theme/icons/udl_rep_adjunto.svg"/>
+      <file href="theme/icons/udl_rep_apoyovisual.svg"/>
+      <file href="theme/icons/udl_rep_caso.svg"/>
+      <file href="theme/icons/udl_rep_conocer.svg"/>
+      <file href="theme/icons/udl_rep_destacado.svg"/>
+      <file href="theme/icons/udl_rep_ejemplo.svg"/>
+      <file href="theme/icons/udl_rep_escucha.svg"/>
+      <file href="theme/icons/udl_rep_fonetica.svg"/>
+      <file href="theme/icons/udl_rep_galeria.svg"/>
+      <file href="theme/icons/udl_rep_gramatica.svg"/>
+      <file href="theme/icons/udl_rep_importante.svg"/>
+      <file href="theme/icons/udl_rep_informarse.svg"/>
+      <file href="theme/icons/udl_rep_lecturafacil.svg"/>
+      <file href="theme/icons/udl_rep_lee.svg"/>
+      <file href="theme/icons/udl_rep_lenguasignos.svg"/>
+      <file href="theme/icons/udl_rep_mediar.svg"/>
+      <file href="theme/icons/udl_rep_nota.svg"/>
+      <file href="theme/icons/udl_rep_pasos.svg"/>
+      <file href="theme/icons/udl_rep_recomienda.svg"/>
+      <file href="theme/icons/udl_rep_redessemanticas.svg"/>
+      <file href="theme/icons/udl_rep_reflexion.svg"/>
+      <file href="theme/icons/udl_rep_reproduccion.svg"/>
+      <file href="theme/icons/udl_rep_vocabulario.svg"/>
+      <file href="theme/icons/udl_sup_adjunto.svg"/>
+      <file href="theme/icons/udl_sup_aprenderaprender.svg"/>
+      <file href="theme/icons/udl_sup_caso.svg"/>
+      <file href="theme/icons/udl_sup_cuestionario.svg"/>
+      <file href="theme/icons/udl_sup_curiosidad.svg"/>
+      <file href="theme/icons/udl_sup_debate.svg"/>
+      <file href="theme/icons/udl_sup_descarga.svg"/>
+      <file href="theme/icons/udl_sup_destacado.svg"/>
+      <file href="theme/icons/udl_sup_escribe.svg"/>
+      <file href="theme/icons/udl_sup_galeria.svg"/>
+      <file href="theme/icons/udl_sup_graba.svg"/>
+      <file href="theme/icons/udl_sup_habla.svg"/>
+      <file href="theme/icons/udl_sup_interactivo.svg"/>
+      <file href="theme/icons/udl_sup_juego.svg"/>
+      <file href="theme/icons/udl_sup_lee.svg"/>
+      <file href="theme/icons/udl_sup_manipula.svg"/>
+      <file href="theme/icons/udl_sup_musica.svg"/>
+      <file href="theme/icons/udl_sup_nota.svg"/>
+      <file href="theme/icons/udl_sup_objetivos.svg"/>
+      <file href="theme/icons/udl_sup_reflexion.svg"/>
+      <file href="theme/icons/udl_sup_reproduccion.svg"/>
+      <file href="theme/icons/udl_sup_rubrica.svg"/>
+      <file href="theme/icons/udl_sup_tarea.svg"/>
+      <file href="theme/icons/udl_sup_tareagrupal.svg"/>
+      <file href="theme/icons/udl_sup_temporalizacion.svg"/>
+      <file href="theme/icons/udl_sup_vocabulario.svg"/>
+      <file href="theme/img/home.png"/>
+      <file href="theme/img/icons.png"/>
+      <file href="theme/img/licenses.gif"/>
+      <file href="theme/screenshot.png"/>
+      <file href="theme/style.css"/>
+      <file href="theme/style.js"/>
+    </resource>
+  </resources>
+</manifest>

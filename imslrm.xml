@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1">
+  <general uniqueElementName="general">
+    <identifier>
+      <catalog uniqueElementName="catalog">none</catalog>
+      <entry uniqueElementName="entry">ODE-mq2xw0isllm0n</entry>
+    </identifier>
+    <title>
+      <string language="en">Leadership &amp; Professionalism </string>
+    </title>
+    <language>en</language>
+    <description>
+      <string language="en">What is this course about?
+
+This course is designed to equip members of the Theme Park &amp; Toy Engineers (TPTE) and aspiring leaders with the essential &quot;soft skills&quot; required to excel in the themed entertainment and toy industries. While technical skill is the &quot;what&quot; of your career, professionalism and leadership constitute the &quot;how&quot; and the &quot;why.&quot; Professionalism isn&#039;t just about wearing a suit or showing up on time; it’s a standard of conduct. It encompasses accountability, respect, and ethical decision-making. Leadership is the ability to guide, inspire, and coordinate people toward a common goal. It’s not reserved for people with &quot;Manager&quot; in their title; it’s an attitude.</string>
+    </description>
+    <aggregationLevel uniqueElementName="aggregationLevel">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">2</value>
+    </aggregationLevel>
+  </general>
+  <lifeCycle>
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">author</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Theme Park &amp; Toy Engineers EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-06-06T18:43:24.00-04:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+  </lifeCycle>
+  <metaMetadata uniqueElementName="metaMetadata">
+    <contribute>
+      <role uniqueElementName="role">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">creator</value>
+      </role>
+      <entity>BEGIN:VCARD VERSION:3.0 FN:Theme Park &amp; Toy Engineers EMAIL;TYPE=INTERNET: ORG: END:VCARD</entity>
+      <date>
+        <dateTime uniqueElementName="dateTime">2026-06-06T18:43:24.00-04:00</dateTime>
+        <description>
+          <string language="en">Metadata creation date</string>
+        </description>
+      </date>
+    </contribute>
+    <metadataSchema>LOM-ESv1.0</metadataSchema>
+    <language>en</language>
+  </metaMetadata>
+  <technical uniqueElementName="technical">
+    <otherPlatformRequirements>
+      <string language="en">editor: eXe Learning</string>
+    </otherPlatformRequirements>
+  </technical>
+  <educational>
+    <language>en</language>
+  </educational>
+  <rights uniqueElementName="rights">
+    <copyrightAndOtherRestrictions uniqueElementName="copyrightAndOtherRestrictions">
+      <source uniqueElementName="source">LOM-ESv1.0</source>
+      <value uniqueElementName="value">propietary license</value>
+    </copyrightAndOtherRestrictions>
+    <access uniqueElementName="access">
+      <accessType uniqueElementName="accessType">
+        <source uniqueElementName="source">LOM-ESv1.0</source>
+        <value uniqueElementName="value">universal</value>
+      </accessType>
+      <description>
+        <string language="en">Default</string>
+      </description>
+    </access>
+  </rights>
+</lom>
